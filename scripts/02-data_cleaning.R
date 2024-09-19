@@ -1,6 +1,6 @@
 #### Preamble ####
 # Purpose: Cleans the raw marriage data into an analysis dataset
-# Author: Rohan Alexander
+# Author: Kevin Cai
 # Date: 19 September 2024
 # Contact: rohan.alexander@utoronto.ca
 # License: MIT
